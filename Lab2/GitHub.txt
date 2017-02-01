@@ -1,0 +1,81 @@
+Corey Purcell
+Software Engineering
+Lab 2
+
+1.
+Using a source code control system is helpful to manage development because it allows multiple people to work on the same thing and also allows a team or group of people to distribute a project and assign different parts to a specific individual. Also, having a source code control system gives the user a place to safely store their work.
+
+2.
+The "Watch" button allows you to follow a conversation and be notified when there are new messages. It also allows you to ignore certain conversations as well as give you the option to not be watching any conversations. 
+
+The "Star" button allows you to favorite a reposirtory or a specific project.
+
+The "Fork" button allows you to copy as repository and make test it as you please withiout modifying the original work
+
+3.
+Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
+4.
+Merge request 21850:
+	Additions: 1
+	Deletions: 1
+
+5.
+Green: Add
+Red: Delete
+
+6.
+"Issues" are used track todos, bugs, feature requests, and more.
+"Pull requests" are used to help you collaborate on code with other people.
+
+-The distinctions between issues and pull requests are that issues are more of an agenda where you can keep everyone up to date and track when you need to get things done where pull requests are directed more towards getting code so you can test, modiy, run etc..
+
+7.
+Under the pulse tab you'll see an overview of a repository's activity including pull requets, issues and commit's for the most active users of a project.
+
+9.
+purcellc693@cis20:~/StudentDocs/CSC434/SoftwareEngineering$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+ 
+10.
+purcellc693@cis20:~/StudentDocs/CSC434/SoftwareEngineering/Lab2$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   src/Hello.java
+
+11.
+purcellc693@cis20:~/StudentDocs/CSC434/SoftwareEngineering$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	#Hello.java#
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+12.
+purcellc693@cis20:~/StudentDocs/CSC434/SoftwareEngineering$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	#Hello.java#
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+
+
+
+
+
+
+
