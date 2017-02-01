@@ -1,5 +1,4 @@
-//Corey made this change 
-//Cody made this change 
+// Corey - made change 11:35am 
 public class Hello {
 
 	/**
