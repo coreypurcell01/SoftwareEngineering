@@ -9,7 +9,11 @@ public class hello {
 		
 		System.out.println("Hello");
 		
-
+		for (int i = 0; i < 1000; i++){
+			System.out.println(i);
+			
+		}
+		
+		}	
 	}
 
-}
